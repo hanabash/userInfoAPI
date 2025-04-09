@@ -1,0 +1,1 @@
+Developed a basic REST API to get user by ID using Mongoose, and tested using Postman. Thorough testing using jest and supertest would be ideal. For the purposes of this simple API and structured user data, Mongoose seemed appropriate to use. 
